@@ -1,7 +1,7 @@
 Zmiana01 - zmiana06 - zmiana08
 Zmiana03 Zmiana02a - Zmiana09 w obu plikach
 Zmoana 02a
-zmiana04
+zmiana04					Zmiana12wclonie
 zmiana05
 zmian 07 Pozdrawiam Cieplutko
 <<<<<<< HEAD
